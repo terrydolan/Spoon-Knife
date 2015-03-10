@@ -1,6 +1,10 @@
+### edited
+
+Edited README.md on github
+
 ### forked
 
-This repository is my updated version of //github.com/octocat/Spoon-Knife
+This repository is my updated version of //github.com/octocat/Spoon-Knife.
 
 
 ### Well hello there!
